@@ -1,0 +1,27 @@
+{
+  "name": "dhtmlx-gantt",
+  "version": "2.1.0",
+  "main":[
+    "codebase/dhtmlxgantt.js",
+    "codebase/dhtmlxgantt.css"
+  ],
+  "ignore": [
+    ".*",
+    "*.custom.*",
+    "*.template.*",
+    "*.map",
+    "*.md",
+    "/*.min.*",
+    "license.txt",
+    "readme.txt",
+    "README.md",
+    "whatsnew.txt",
+    "samples"
+    "component.json",
+    "package.json",
+    "codebase/connector",
+    "codebase/ext",
+    "codebase/locale",
+    "codebase/sources"
+  ]
+}

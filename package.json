@@ -1,0 +1,25 @@
+{
+  "name": "dhtmlx-gantt-gpl",
+  "version": "2.1.0",
+  "description": "dhtmlxGantt",
+  "main": "codebase/dhtmlgantt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:casaval/dhtmlx-gantt-gpl.git"
+  },
+  "keywords": [
+    "gantt",
+    "javascript",
+    "jquery",
+    "plugin"
+  ],
+  "author": "dhtmlx team",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/casaval/dhtmlx-gantt-gpl/issues"
+  },
+  "homepage": "https://github.com/casaval/dhtmlx-gantt-gpl"
+}
