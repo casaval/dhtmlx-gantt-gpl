@@ -2,8 +2,8 @@
   "name": "dhtmlx-gantt",
   "version": "2.1.0",
   "main":[
-    "codebase/dhtmlxgantt.js",
-    "codebase/dhtmlxgantt.css"
+    "./codebase/dhtmlxgantt.js",
+    "./codebase/dhtmlxgantt.css"
   ],
   "ignore": [
     ".*",
